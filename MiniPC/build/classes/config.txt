@@ -1,0 +1,2 @@
+memoria:256
+disco:512
